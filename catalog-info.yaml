@@ -4,6 +4,9 @@ metadata:
   name: sathishbayer
   description: Sample Managed Control Plane 2
 spec:
+  profile:
+    displayName: Sathish Kumar Murugesan
+    email: sathishkumar.mururgesan.ext@bayer.com
   type: sample
   owner: team-platform
   region: us-east-1

@@ -4,6 +4,7 @@ metadata:
   name: sathishbayer
   description: Sample Managed Control Plane 2
 spec:
+  type: sample
   owner: team-platform
   region: us-east-1
   environment: production

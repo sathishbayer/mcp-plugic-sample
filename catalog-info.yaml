@@ -7,4 +7,5 @@ spec:
   type: sample
   owner: team-platform
   region: us-east-1
-  environment: production
+  lifecycle: production
+  system: customer-portal
